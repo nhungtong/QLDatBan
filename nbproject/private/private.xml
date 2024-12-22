@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/src/java/dao/QLMonAnDAO.java</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/web/TinhTrangMon.jsp</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/web/GiaoDienChung.jsp</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/web/suaban.jsp</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/web/DangNhap.jsp</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/src/java/model/TaiKhoan.java</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/src/java/dao/TaiKhoanDAO.java</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/web/doUong.jsp</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/web/themnv1.jsp</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/src/java/servlet/MonAnServlet.java</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/src/java/servlet/BaoCaoServlet.java</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/web/danhsachmonan.jsp</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/src/java/model/ThanhToan.java</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/src/java/servlet/DatBanServlet.java</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/src/java/servlet/XoaQLMonAnServlet.java</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/web/baocaonguyenlieu.jsp</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/src/java/servlet/CapNhatTinhTrangServlet.java</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/src/java/servlet/ThanhToanServlet.java</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/web/themban.jsp</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/src/java/servlet/DangNhapServlet.java</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/web/suanv.jsp</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/src/java/dao/BaoCaoDAO.java</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/src/java/dao/DatBanDAO.java</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/web/ThanhToan.jsp</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/src/java/dao/NhanVienDAO.java</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/web/nhapMaBan.jsp</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/src/java/servlet/BepServlet.java</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/src/java/servlet/GoiMonServlet.java</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/src/java/dao/MonAnDAO.java</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/src/java/servlet/NhanVienServlet.java</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/web/GiaoDien.jsp</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/src/java/dao/DanhGiaDAO.java</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/web/danhsachban.jsp</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/src/java/dao/GoiMonDAO.java</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/src/java/dao/NguyenLieuDAO.java</file>
+            <file>file:/C:/Users/hi%20tcc/Downloads/QLDatBan/src/java/dao/ThanhToanDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
