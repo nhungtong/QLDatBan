@@ -1,0 +1,50 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Nov 25, 2024, 8:32:46 AM
+    Author     : hi tcc
+*/
+/* File: danhsachmonan.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+}
+
+.container {
+    max-width: 800px;
+    margin: 15px auto;
+    padding: 20px;
+}
+.tieude {
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+    padding: 20px;
+    background-color: #e4e4e4;
+    border-radius: 8px;
+}
+
+.tieude .nut {
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff; 
+    padding: 10px 20px;
+    background-color: #74c043;
+    border: 2px solid transparent;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
+
+.tieude .nut:hover {
+    background-color: #004085; 
+    border: 2px solid #007BFF; 
+    transform: scale(1.05); 
+    color: #e4e4e4; 
+}
+
