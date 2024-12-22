@@ -1,0 +1,67 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Nov 25, 2024, 11:41:40 AM
+    Author     : hi tcc
+*/
+/* Giữ nguyên phong cách cho div.chung */
+.chung {
+    text-align: center;
+    margin: 20px;
+}
+
+/* Căn chỉnh và tạo kiểu cho div.nhap */
+.nhap {
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #ddd; /* Tạo viền xung quanh */
+    border-radius: 8px; /* Tạo góc bo tròn */
+    background-color: #f9f9f9; /* Màu nền nhẹ */
+    width: 50%; /* Chiều rộng div */
+    margin-left: auto; /* Căn trái phải tự động */
+    margin-right: auto;
+}
+
+.nhap h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.nhap form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.nhap label {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.nhap input {
+    padding: 8px;
+    font-size: 16px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 200px; /* Chiều rộng cho ô nhập */
+}
+
+.nhap button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50; /* Màu nền xanh */
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.nhap button:hover {
+    background-color: #45a049; /* Màu nền khi hover */
+}
+

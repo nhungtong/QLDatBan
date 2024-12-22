@@ -1,0 +1,93 @@
+/* Đảm bảo phần cha của .themban sử dụng flexbox để căn giữa */
+.themban {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 0px auto;
+    border: 2px solid;
+    padding: 10px 20px;
+    width: 500px;
+    min-height: 250px;
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
+
+.themban h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.themban form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.themban form label {
+    font-size: 16px;
+    color: #333;
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+.themban form input {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    outline: none;
+    width: 90%;
+}
+
+.themban form input:focus {
+    border-color: #0056b3;
+    box-shadow: 0 0 5px rgba(0, 86, 179, 0.5);
+}
+
+.themban form button {
+    background-color: #74c043;
+    color: #fff;
+    border: none;
+    padding: 12px 20px;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.themban form button:hover {
+    background-color: #004080;
+}
+.nut-link {
+    display: inline-block;
+    background-color: #4CAF50; 
+    color: white; 
+    padding: 10px 20px; 
+    text-align: center; 
+    text-decoration: none; 
+    border-radius: 5px; 
+    font-size: 16px; 
+    margin: 5px; 
+}
+
+.nut-link:hover {
+    background-color: #45a049; 
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 600px) {
+    .themban {
+        padding: 20px;
+        width: 90%; /* Adjust form width on smaller screens */
+    }
+
+    .themban h1 {
+        font-size: 24px;
+    }
+
+    .themban form button {
+        font-size: 14px;
+    }
+}
+

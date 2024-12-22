@@ -1,0 +1,181 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Nov 24, 2024, 2:47:58 PM
+    Author     : hi tcc
+*/
+       body {
+                font-family: Arial, sans-serif;
+            }
+            .top-bar {
+                background-color: #222222;
+                color: white;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                padding: 10px 20px;
+                font-size: 14px;
+                margin: 0;
+            }
+            .top-bar .left,
+            .top-bar .right {
+                display: flex;
+                align-items: center;
+            }
+            .top-bar .left i,
+            .top-bar .right i {
+                margin-right: 5px;
+            }
+            .top-bar .center {
+                text-align: center;
+                flex: 1;
+            }
+            .center-bar {
+                display: flex;
+                justify-content: flex-start;
+                background-color: #222;
+                padding: 10px 20px;
+            }
+
+            .menu {
+                list-style: none;
+                padding: 0;
+                margin: 0;
+            }
+
+            .menu > li {
+                position: relative;
+                display: inline-block;
+            }
+
+            .menu > li > a {
+                text-decoration: none;
+                font-size: 16px;
+                padding: 10px 20px;
+                color: white;
+                display: block;
+                font-variant: small-caps;
+            }
+
+            .menu > li > a:hover {
+                background-color: #74c043;
+                color: white;
+                font-weight: bold;
+            }
+
+            .submenu {
+                position: absolute;
+                top: 100%;
+                left: 0;
+                background-color: #444;
+                list-style: none;
+                margin: 0;
+                padding: 10px 0;
+                min-width: 200px;
+                display: none;
+                box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+                z-index: 100;
+            }
+
+            .submenu li {
+                position: relative;
+                padding: 0;
+            }
+
+            .submenu li a {
+                text-decoration: none;
+                color: white;
+                font-size: 14px;
+                padding: 10px 20px;
+                display: block;
+            }
+
+            .submenu li a:hover {
+                background-color: #74c043;
+                color: white;
+                font-weight: bold;
+                width: 200px
+            }
+
+            .submenu li ul {
+                position: absolute;
+                top: 0;
+                left: 100%;
+                background-color: #555;
+                display: none;
+                list-style: none;
+                margin: 0;
+                padding: 10px 0;
+                min-width: 200px;
+                z-index: 100;
+            }
+
+            .submenu li:hover > ul {
+                display: block;
+            }
+
+            .menu > li:hover > .submenu {
+                display: block;
+            }
+
+            .right {
+                display: flex;
+                justify-content: flex-end;
+                align-items: center;
+                margin-left: auto;
+            }
+            .search-box {
+                display: flex;
+                align-items: center;
+                background-color: white;
+                border-radius: 25px;
+                padding: 5px 10px;
+                box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+                height: 15px
+            }
+            .search-box input {
+                border: none;
+                outline: none;
+                padding: 5px 10px;
+                border-radius: 25px;
+                font-size: 14px;
+                flex: 1;
+            }
+            .search-box button {
+                background: none;
+                border: none;
+                cursor: pointer;
+                font-size: 15px;
+                margin-left: 5px;
+                color: #333;
+            }
+            .name {
+                display: flex;
+                align-items: center; 
+                gap: 15px; 
+                padding: 10px; 
+                background-color: #f9f9f9; 
+                border-radius: 8px; 
+            }
+
+            .name img {
+                width: 80px; 
+                height: 80px; 
+                object-fit: cover; 
+                border-radius: 50%; 
+            }
+
+            .name h1 {
+                font-size: 24px; 
+                margin: 0; 
+                color: #333;
+            }
+
+            .name h4 {
+                font-size: 16px; 
+                margin: 0; 
+                color: #666; 
+            }
+
